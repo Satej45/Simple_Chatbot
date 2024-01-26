@@ -18,13 +18,13 @@ This Simple Chatbot in Python is a basic conversational agent designed to respon
    git clone https://github.com/your-username/Simple-Chatbot-in-Python.git
    cd Simple-Chatbot-in-Python
 
-Install dependencies:
-''bash
-pip install -r requirements.txt
+2. Install dependencies:
+   ```bash
+      pip install -r requirements.txt
 
-Run the chatbot:
-'''bash
-python simple_chatbot.py
+3. Run the chatbot:
+   ```bash
+      python simple_chatbot.py
 
 Enter your messages in the console and interact with the chatbot.
 
