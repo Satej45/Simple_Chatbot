@@ -15,7 +15,7 @@ This Simple Chatbot in Python is a basic conversational agent designed to respon
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Simple-Chatbot-in-Python.git
+   git clone https://github.com/Satej45/Simple_Chatbot.git
    cd Simple-Chatbot-in-Python
 
 2. Install dependencies:
